@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "The Richest Man in Babylon",
+    "author": "George S. Clason"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "author": "J. K. Rowling"
+  },
+  {
+    "id": 3,
+    "title": "Atomic Habits",
+    "author": "James Clear"
+  },
+  {
+    "id": 4,
+    "title": "The Art of Living Other People's Lives",
+    "author": "Greg Dybec"
+  },
+  {
+    "id": 5,
+    "title": "7 Habits of Highly Effective People",
+    "author": "Stephen Covey"
+  },
+  {
+    "id": 6,
+    "title": "On the Origin of Species and Other Stories",
+    "author": "Bo-Young Kim"
+  }
+]
